@@ -2,7 +2,7 @@
 title: Musician
 --- 
 
-Musician ist ein einfach zu nutzendes Programm zum Abspielen von MP3-Dateien.  
+Musician ist ein einfach zu nutzendes Programm zum Abspielen von MP3-Dateien.
 Es hilft Ihnen beim Anlegen von Playlists und dem Bearbeiten der wichtigsten MP3-Tags.  
 
 Das Verwalten ihrer gesammelten MP3-Dateien in einer geordneten Musiksammlung
@@ -14,12 +14,11 @@ mit Bild oder eine Discogs-Abfrage sind per Mausklick aus dem Internet abrufbar.
 ![](musician_player.png)  
 *Der Player*  
 
-
 Sie können Musician kostenlos herunterladen und nutzen.
 
 <a href="Musician_install.zip">Musician downloaden</a>  
 
 Musician is completely free to use for both individuals and businesses,
-and includes no ads or unwanted software.*
+and includes no ads or unwanted software.
 
 music on, world off ;-)
