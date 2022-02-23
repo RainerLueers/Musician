@@ -14,6 +14,13 @@ mit Bild oder eine Discogs-Abfrage sind per Mausklick aus dem Internet abrufbar.
 ![](musician_player.png)  
 *Der Player*  
 
+## Systemvoraussetzungen
+
+Musician wurde in Java mit dem JDK 17.01 programmiert und kann in jeder Umgebung ausgeführt
+werden, die ein Java Runtime Environment (JRE) der Version 17.01 oder höher bereitstellt.  
+
+Musician wurde unter **Ubuntu 20.04** und **Windows 10** erfolgreich getestet.
+
 Sie können Musician kostenlos herunterladen und nutzen.
 
 <a href="Musician_install.zip">Musician downloaden</a>  
